@@ -1,0 +1,3 @@
+/*A semantic web application built on the Apache Jena semantic web framework that links data from different sources and domains, and integrates all of it to provide you with essential information about the city you live in or wish to live in - such as safety, convenience, transport etc. 
+All data sets (from diverse sources and formats) are transformed into a common format - RDF/XML based on OWL schema (generated using Protege ontology editor) and queried using SPARQL to display results.
+Accomplished as a part of course project, in a team of 3 persons.*/
